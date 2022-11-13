@@ -1,16 +1,22 @@
-# food_timeline
+# Food Timeline
 
-A new Flutter project.
+> An app to track your food
 
-## Getting Started
+This project was created to learn Flutter. It will be done without libraries except for development libraries.
 
-This project is a starting point for a Flutter application.
+The use of no library will make things a bit harder (and longer) to do, but this is the way I like to learn.
 
-A few resources to get you started if this is your first Flutter project:
+## Objectives
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The objective of the project is to make possible to take pictures of your food and tag them.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> The idea came up when I started to reeducate my diet and felt the need to track what I was eating, this way I could reduce or change some foods
+
+I intend to build the UI similar to Google Calendar, that has a timeline (aha!) and a calendar to get a macro view of the events. In short terms, it will be a Google Calendar with pictures.
+
+## Platforms
+
+- [ ] Android
+- [ ] iOS
+
+> Android will be the first platform because I have more experience with it, for iOS I'll need to learn from scratch
